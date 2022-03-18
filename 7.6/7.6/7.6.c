@@ -12,6 +12,6 @@ void binary_to_ascii(unsigned int value)
 
 int main()
 {
-	binary_to_ascii(123456);
+	binary_to_ascii(4267);
 	getchar();
 }
